@@ -1,0 +1,7 @@
+This is a frontend to Adobe's FCSH which utilizes the incremental compilation for faster compile times.
+
+If you wish to load a configuration file, pass in the path to the file as an argument.  The format for the file is:
+
+TARGET NAME
+SDK PATH
+MXMLC ARGUMENTS
